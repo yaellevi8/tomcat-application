@@ -1,2 +1,2 @@
 # tomcat-application
-DevOps Course - Second Task
+DevOps Course - Monitoring Task
